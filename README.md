@@ -2,7 +2,7 @@
 ![Latest Version](https://img.shields.io/badge/latestVersion-1.0-yellow) ![Kotlin](https://img.shields.io/badge/language-kotlin-blue) ![Minimum SDK Version](https://img.shields.io/badge/minSDK-26-orange) ![Android Gradle Version](https://img.shields.io/badge/androidGradleVersion-4.1.1-green) ![Gradle Version](https://img.shields.io/badge/gradleVersion-6.5-informational)
 
 <img src="/screenshots/1.png" width=350></img>
-<img src="/screenshots/2.png" width=800></img>
+<img src="/screenshots/2.png" width=900></img>
 
 ## Introduction
 
